@@ -10,7 +10,7 @@
     height: 100px;
     margin-left: 50px;
     text-align-all: center;
-    background-color: lightslategrey;
+    background-color: rgb(73, 70, 70);
     line-height: 100px;
   }
   span{
@@ -18,7 +18,7 @@
     font-size: 30px;
   }
   mat-card-footer{
-  font-size: 15px;  text-align-all: center;  line-height: 50px;background-color: gold;
+  font-size: 15px;  text-align-all: center;  line-height: 50px;background-color: rgb(84, 171, 230);
   }
   .details{
   margin-left:10px;
@@ -31,7 +31,7 @@
     height: 100px;
     margin-left: 50px;
     text-align-all: center;
-    background-color: lightslategrey;
+    background-color: rgb(73, 70, 70);
     line-height: 100px;
   }
   .icon{
